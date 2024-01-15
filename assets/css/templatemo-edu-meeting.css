@@ -1407,12 +1407,7 @@ section.our-facts h2 {
 
 section.our-facts .video {
   text-align: center;
-  margin-left: 70px;
-  background-image: url(../images/video-item-bg.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  border-radius: 20px;
+ 
 }
 
 section.our-facts .video img {
